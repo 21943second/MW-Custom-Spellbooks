@@ -11,3 +11,6 @@ This packs adds differernt colors based on the "type" of spell that a book corre
 
 This pack utilized cit, therefore it required optifine (untested) or [CIT Resewn](https://modrinth.com/mod/cit-resewn). Specifically, it has been tested on Fabric version 1.20.4 and likely supports other versions but those have not been verified.
 
+### Preview:
+
+![Preview of texture pack](./preview.png)
