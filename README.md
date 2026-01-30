@@ -1,6 +1,6 @@
-## MW Custom Spellbook Colors
+## MW Custom Spellbooks
 
-This packs adds differernt colors based on the "type" of spell that a book corresponds to. These can be broken into 4 different categories:
+This packs adds different colors based on the "type" of spell that a book corresponds to. These can be broken into 4 different categories:
 
 - Attack (orange)
 - Buff (dark green)
